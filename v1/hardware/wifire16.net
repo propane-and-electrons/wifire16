@@ -1,0 +1,1656 @@
+# EESchema Netlist Version 1.1 created  11/16/2010 12:25:41 PM
+(
+ ( /4BFC5882 C2 C1 0.1uF
+  ( 1 N-000117 )
+  ( 2 /RESET )
+ )
+ ( /4C0080DC C2 C2 0.1uF
+  ( 1 +3.3V )
+  ( 2 GND )
+ )
+ ( /4BFC5197 C2 C3 0.1uF
+  ( 1 VCC )
+  ( 2 GND )
+ )
+ ( /4C0080E3 C1V8 C4 100uF
+  ( 1 +3.3V )
+  ( 2 GND )
+ )
+ ( /4C00A719 C2 C5 0.1uF
+  ( 1 +3.3V )
+  ( 2 GND )
+ )
+ ( /4C00A935 C2 C6 1uF
+  ( 1 GND )
+  ( 2 +3.3V )
+ )
+ ( /4C00A941 C2 C7 8.2pF
+  ( 1 GND )
+  ( 2 +3.3V )
+ )
+ ( /4BFC4EC6 C1V5 C8 47uF
+  ( 1 N-000119 )
+  ( 2 GND )
+ )
+ ( /4BFC5797 C2 C9 0.1uF
+  ( 1 /AREF )
+  ( 2 GND )
+ )
+ ( /4BFC4ECB C1V5 C10 47uF
+  ( 1 VCC )
+  ( 2 GND )
+ )
+ ( /4BFC4ED5 C2 C11 0.1uF
+  ( 1 VCC )
+  ( 2 GND )
+ )
+ ( /4CAE17A9 C2 C12 0.1uF
+  ( 1 GND )
+  ( 2 VCC )
+ )
+ ( /4CAE17E5 C2 C13 0.1uF
+  ( 1 GND )
+  ( 2 VCC )
+ )
+ ( /4CACD043 LED-3MM D1 SOLPWR
+  ( 1 /SOLPWR+ )
+  ( 2 N-000064 )
+ )
+ ( /4CACAAAD LED-3MM D2 SOL1
+  ( 1 /SOLPWR+ )
+  ( 2 N-000025 )
+ )
+ ( /4CACAABC LED-3MM D3 SOL2
+  ( 1 /SOLPWR+ )
+  ( 2 N-000079 )
+ )
+ ( /4CACAAE0 LED-3MM D4 SOL3
+  ( 1 /SOLPWR+ )
+  ( 2 N-000059 )
+ )
+ ( /4CACAAD1 LED-3MM D5 SOL4
+  ( 1 /SOLPWR+ )
+  ( 2 N-000092 )
+ )
+ ( /4CACAA6A LED-3MM D6 SOL5
+  ( 1 /SOLPWR+ )
+  ( 2 N-000009 )
+ )
+ ( /4CACAA5B LED-3MM D7 SOL6
+  ( 1 /SOLPWR+ )
+  ( 2 N-000044 )
+ )
+ ( /4CACA9FF LED-3MM D8 SOL7
+  ( 1 /SOLPWR+ )
+  ( 2 N-000136 )
+ )
+ ( /4CACAA2B LED-3MM D9 SOL8
+  ( 1 /SOLPWR+ )
+  ( 2 N-000142 )
+ )
+ ( /4CACAAB1 D3 D10 1N4004
+  ( 1 N-000026 )
+  ( 2 /SOLPWR+ )
+ )
+ ( /4CACAAB8 D3 D11 1N4004
+  ( 1 N-000022 )
+  ( 2 /SOLPWR+ )
+ )
+ ( /4CACAADC D3 D12 1N4004
+  ( 1 N-000060 )
+  ( 2 /SOLPWR+ )
+ )
+ ( /4CACAAD5 D3 D13 1N4004
+  ( 1 N-000081 )
+  ( 2 /SOLPWR+ )
+ )
+ ( /4CACAA66 D3 D14 1N4004
+  ( 1 N-000042 )
+  ( 2 /SOLPWR+ )
+ )
+ ( /4CACAA5F D3 D15 1N4004
+  ( 1 N-000045 )
+  ( 2 /SOLPWR+ )
+ )
+ ( /4CACAA03 D3 D16 1N4004
+  ( 1 N-000167 )
+  ( 2 /SOLPWR+ )
+ )
+ ( /4CACAA27 D3 D17 1N4004
+  ( 1 N-000140 )
+  ( 2 /SOLPWR+ )
+ )
+ ( /4CACAAAA LED-3MM D18 SOL9
+  ( 1 /SOLPWR+ )
+  ( 2 N-000024 )
+ )
+ ( /4CACAABF LED-3MM D19 SOL10
+  ( 1 /SOLPWR+ )
+  ( 2 N-000080 )
+ )
+ ( /4CACAAE3 LED-3MM D20 SOL11
+  ( 1 /SOLPWR+ )
+  ( 2 N-000061 )
+ )
+ ( /4CACAACE LED-3MM D21 SOL12
+  ( 1 /SOLPWR+ )
+  ( 2 N-000091 )
+ )
+ ( /4CACAA6D LED-3MM D22 SOL13
+  ( 1 /SOLPWR+ )
+  ( 2 N-000010 )
+ )
+ ( /4CACAA58 LED-3MM D23 SOL14
+  ( 1 /SOLPWR+ )
+  ( 2 N-000032 )
+ )
+ ( /4CACA739 LED-3MM D24 SOL15
+  ( 1 /SOLPWR+ )
+  ( 2 N-000135 )
+ )
+ ( /4CACAA2E LED-3MM D25 SOL16
+  ( 1 /SOLPWR+ )
+  ( 2 N-000143 )
+ )
+ ( /4CACAAA6 D3 D26 1N4004
+  ( 1 N-000007 )
+  ( 2 /SOLPWR+ )
+ )
+ ( /4CACAAC3 D3 D27 1N4004
+  ( 1 N-000171 )
+  ( 2 /SOLPWR+ )
+ )
+ ( /4CACAAE7 D3 D28 1N4004
+  ( 1 N-000050 )
+  ( 2 /SOLPWR+ )
+ )
+ ( /4CACAACA D3 D29 1N4004
+  ( 1 N-000089 )
+  ( 2 /SOLPWR+ )
+ )
+ ( /4CACAA71 D3 D30 1N4004
+  ( 1 N-000178 )
+  ( 2 /SOLPWR+ )
+ )
+ ( /4CACAA54 D3 D31 1N4004
+  ( 1 N-000033 )
+  ( 2 /SOLPWR+ )
+ )
+ ( /4CAC9AC7 D3 D32 1N4004
+  ( 1 N-000160 )
+  ( 2 /SOLPWR+ )
+ )
+ ( /4CACAA32 D3 D33 1N4004
+  ( 1 N-000165 )
+  ( 2 /SOLPWR+ )
+ )
+ ( /4BFC82F4 D3 D34 1N4004
+  ( 1 +12V )
+  ( 2 N-000119 )
+ )
+ ( /4C00890C LED-3MM D35 ASSOC
+  ( 1 N-000153 )
+  ( 2 GND )
+ )
+ ( /4C00890E LED-3MM D36 RSSI
+  ( 1 N-000154 )
+  ( 2 GND )
+ )
+ ( /4BFC4FA3 LED-3MM D37 POWER
+  ( 1 N-000134 )
+  ( 2 GND )
+ )
+ ( /4BFC80FE LED-3MM D38 TX
+  ( 1 /TXD )
+  ( 2 N-000093 )
+ )
+ ( /4BFC80F9 LED-3MM D39 MOSI
+  ( 1 /MOSI )
+  ( 2 N-000149 )
+ )
+ ( /4BF98A3C DIP-28__300 IC1 ATMEGA328
+  ( 1 /RESET )
+  ( 2 /RXD )
+  ( 3 /TXD )
+  ( 4 N-000126 )
+  ( 5 N-000125 )
+  ( 6 /CLEAR )
+  ( 7 VCC )
+  ( 8 GND )
+  ( 9 N-000151 )
+  ( 10 N-000150 )
+  ( 11 /LATCH )
+  ( 12 /OE )
+  ( 13 /ARMED )
+  ( 14 N-000124 )
+  ( 15 N-000123 )
+  ( 16 N-000122 )
+  ( 17 /MOSI )
+  ( 18 /MISO )
+  ( 19 /SCK )
+  ( 20 VCC )
+  ( 21 /AREF )
+  ( 22 GND )
+  ( 23 N-000133 )
+  ( 24 N-000132 )
+  ( 25 N-000131 )
+  ( 26 N-000130 )
+  ( 27 N-000129 )
+  ( 28 N-000128 )
+ )
+ ( /4C00826F xbee_r1-XBEE-PRO M1 XBEE-PRO
+  ( 1 +3.3V )
+  ( 2 /RXD )
+  ( 3 N-000116 )
+  ( 4 N-000152 )
+  ( 5 N-000108 )
+  ( 6 N-000169 )
+  ( 7 N-000107 )
+  ( 8 N-000115 )
+  ( 9 N-000106 )
+  ( 10 GND )
+  ( 11 N-000114 )
+  ( 12 N-000105 )
+  ( 13 N-000113 )
+  ( 14 N-000104 )
+  ( 15 N-000112 )
+  ( 16 N-000103 )
+  ( 17 N-000111 )
+  ( 18 N-000110 )
+  ( 19 N-000102 )
+  ( 20 N-000109 )
+ )
+ ( /4C1FDDCF POWER_HDR P1 SOLPWR
+  ( 1 /SOLPWR+ )
+  ( 2 /SOLPWR- )
+ )
+ ( /4CACAAB2 POWER_HDR P2 SOL1
+  ( 1 /SOLPWR+ )
+  ( 2 N-000026 )
+ )
+ ( /4CACAAB7 POWER_HDR P3 SOL2
+  ( 1 /SOLPWR+ )
+  ( 2 N-000022 )
+ )
+ ( /4CACAADB POWER_HDR P4 SOL3
+  ( 1 /SOLPWR+ )
+  ( 2 N-000060 )
+ )
+ ( /4CACAAD6 POWER_HDR P5 SOL4
+  ( 1 /SOLPWR+ )
+  ( 2 N-000081 )
+ )
+ ( /4CACAA65 POWER_HDR P6 SOL5
+  ( 1 /SOLPWR+ )
+  ( 2 N-000042 )
+ )
+ ( /4CACAA60 POWER_HDR P7 SOL6
+  ( 1 /SOLPWR+ )
+  ( 2 N-000045 )
+ )
+ ( /4CACAA04 POWER_HDR P8 SOL7
+  ( 1 /SOLPWR+ )
+  ( 2 N-000167 )
+ )
+ ( /4CACAA26 POWER_HDR P9 SOL8
+  ( 1 /SOLPWR+ )
+  ( 2 N-000140 )
+ )
+ ( /4CACAAA5 POWER_HDR P10 SOL9
+  ( 1 /SOLPWR+ )
+  ( 2 N-000007 )
+ )
+ ( /4CACAAC4 POWER_HDR P11 SOL10
+  ( 1 /SOLPWR+ )
+  ( 2 N-000171 )
+ )
+ ( /4CACAAE8 POWER_HDR P12 SOL11
+  ( 1 /SOLPWR+ )
+  ( 2 N-000050 )
+ )
+ ( /4CACAAC9 POWER_HDR P13 SOL12
+  ( 1 /SOLPWR+ )
+  ( 2 N-000089 )
+ )
+ ( /4CACAA72 POWER_HDR P14 SOL13
+  ( 1 /SOLPWR+ )
+  ( 2 N-000178 )
+ )
+ ( /4CACAA53 POWER_HDR P15 SOL14
+  ( 1 /SOLPWR+ )
+  ( 2 N-000033 )
+ )
+ ( /4CAC9AC6 POWER_HDR P16 SOL15
+  ( 1 /SOLPWR+ )
+  ( 2 N-000160 )
+ )
+ ( /4CACAA33 POWER_HDR P17 SOL16
+  ( 1 /SOLPWR+ )
+  ( 2 N-000165 )
+ )
+ ( /4BFC546D pin_array_3x2 P18 ICSP
+  ( 1 /MISO )
+  ( 2 VCC )
+  ( 3 /SCK )
+  ( 4 /MOSI )
+  ( 5 /RESET )
+  ( 6 GND )
+ )
+ ( /4BFC4E2C PIN_ARRAY-6X1 P19 TTL-232R
+  ( 1 GND )
+  ( 2 ? )
+  ( 3 VCC )
+  ( 4 /RXD )
+  ( 5 /TXD )
+  ( 6 N-000117 )
+ )
+ ( /4BFC4E8C POWER_HDR P20 POWER
+  ( 1 +12V )
+  ( 2 GND )
+ )
+ ( /4C007DB1 SIL-10 P21 XBEE_1
+  ( 1 +3.3V )
+  ( 2 /RXD )
+  ( 3 N-000116 )
+  ( 4 N-000152 )
+  ( 5 N-000108 )
+  ( 6 N-000169 )
+  ( 7 N-000107 )
+  ( 8 N-000115 )
+  ( 9 N-000106 )
+  ( 10 GND )
+ )
+ ( /4BFC5553 SIL-8 P22 PORTC
+  ( 1 /AREF )
+  ( 2 GND )
+  ( 3 N-000133 )
+  ( 4 N-000132 )
+  ( 5 N-000131 )
+  ( 6 N-000130 )
+  ( 7 N-000129 )
+  ( 8 N-000128 )
+ )
+ ( /4BFC554E SIL-8 P23 PORTD
+  ( 1 /RXD )
+  ( 2 /TXD )
+  ( 3 N-000126 )
+  ( 4 N-000125 )
+  ( 5 /CLEAR )
+  ( 6 /LATCH )
+  ( 7 /OE )
+  ( 8 /ARMED )
+ )
+ ( /4BFC553E SIL-6 P24 PORTB
+  ( 1 N-000124 )
+  ( 2 N-000123 )
+  ( 3 N-000122 )
+  ( 4 /MOSI )
+  ( 5 /MISO )
+  ( 6 /SCK )
+ )
+ ( /4C007DAC SIL-10 P25 XBEE_2
+  ( 1 N-000114 )
+  ( 2 N-000105 )
+  ( 3 N-000113 )
+  ( 4 N-000104 )
+  ( 5 N-000112 )
+  ( 6 N-000103 )
+  ( 7 N-000111 )
+  ( 8 N-000110 )
+  ( 9 N-000102 )
+  ( 10 N-000109 )
+ )
+ ( /4CAD43A1 SIL-5 P26 CONN_5
+  ( 1 /MOSI )
+  ( 2 /SCK )
+  ( 3 /CLEAR )
+  ( 4 /LATCH )
+  ( 5 /OE )
+ )
+ ( /4CAD43A6 SIL-5 P27 CONN_5
+  ( 1 /SOUT )
+  ( 2 /SCK )
+  ( 3 /CLEAR )
+  ( 4 /LATCH )
+  ( 5 /OE )
+ )
+ ( /4CACAAB0 TO220GDS_VERT Q1 IRF510
+  ( D N-000026 )
+  ( G N-000177 )
+  ( S /SOLPWR- )
+ )
+ ( /4CACAAB9 TO220GDS_VERT Q2 IRF510
+  ( D N-000022 )
+  ( G N-000078 )
+  ( S /SOLPWR- )
+ )
+ ( /4CACAADD TO220GDS_VERT Q3 IRF510
+  ( D N-000060 )
+  ( G N-000058 )
+  ( S /SOLPWR- )
+ )
+ ( /4CACAAD4 TO220GDS_VERT Q4 IRF510
+  ( D N-000081 )
+  ( G N-000170 )
+  ( S /SOLPWR- )
+ )
+ ( /4CACAA67 TO220GDS_VERT Q5 IRF510
+  ( D N-000042 )
+  ( G N-000043 )
+  ( S /SOLPWR- )
+ )
+ ( /4CACAA5E TO220GDS_VERT Q6 IRF510
+  ( D N-000045 )
+  ( G N-000175 )
+  ( S /SOLPWR- )
+ )
+ ( /4CACAA02 TO220GDS_VERT Q7 IRF510
+  ( D N-000167 )
+  ( G N-000168 )
+  ( S /SOLPWR- )
+ )
+ ( /4CACAA28 TO220GDS_VERT Q8 IRF510
+  ( D N-000140 )
+  ( G N-000141 )
+  ( S /SOLPWR- )
+ )
+ ( /4CACAAA7 TO220GDS_VERT Q9 IRF510
+  ( D N-000007 )
+  ( G N-000023 )
+  ( S /SOLPWR- )
+ )
+ ( /4CACAAC2 TO220GDS_VERT Q10 IRF510
+  ( D N-000171 )
+  ( G N-000172 )
+  ( S /SOLPWR- )
+ )
+ ( /4CACAAE6 TO220GDS_VERT Q11 IRF510
+  ( D N-000050 )
+  ( G N-000173 )
+  ( S /SOLPWR- )
+ )
+ ( /4CACAACB TO220GDS_VERT Q12 IRF510
+  ( D N-000089 )
+  ( G N-000090 )
+  ( S /SOLPWR- )
+ )
+ ( /4CACAA70 TO220GDS_VERT Q13 IRF510
+  ( D N-000178 )
+  ( G N-000179 )
+  ( S /SOLPWR- )
+ )
+ ( /4CACAA55 TO220GDS_VERT Q14 IRF510
+  ( D N-000033 )
+  ( G N-000031 )
+  ( S /SOLPWR- )
+ )
+ ( /4CAC9AC8 TO220GDS_VERT Q15 IRF510
+  ( D N-000160 )
+  ( G N-000161 )
+  ( S /SOLPWR- )
+ )
+ ( /4CACAA31 TO220GDS_VERT Q16 IRF510
+  ( D N-000165 )
+  ( G N-000166 )
+  ( S /SOLPWR- )
+ )
+ ( /4CACAAB3 R3 R1 1k
+  ( 1 N-000016 )
+  ( 2 GND )
+ )
+ ( /4CACAAB6 R3 R2 1k
+  ( 1 N-000020 )
+  ( 2 GND )
+ )
+ ( /4CACAADA R3 R3 1k
+  ( 1 N-000087 )
+  ( 2 GND )
+ )
+ ( /4CACAAD7 R3 R4 1k
+  ( 1 N-000084 )
+  ( 2 GND )
+ )
+ ( /4CACAA64 R3 R5 1k
+  ( 1 N-000040 )
+  ( 2 GND )
+ )
+ ( /4CACAA61 R3 R6 1k
+  ( 1 N-000048 )
+  ( 2 GND )
+ )
+ ( /4CACAA05 R3 R7 1k
+  ( 1 N-000146 )
+  ( 2 GND )
+ )
+ ( /4CACAA25 R3 R8 1k
+  ( 1 N-000148 )
+  ( 2 GND )
+ )
+ ( /4CACD044 R3 R9 1k
+  ( 1 N-000064 )
+  ( 2 /SOLPWR- )
+ )
+ ( /4CACAAAF R3 R10 10k
+  ( 1 N-000177 )
+  ( 2 /SOLPWR- )
+ )
+ ( /4CACAABA R3 R11 10k
+  ( 1 N-000078 )
+  ( 2 /SOLPWR- )
+ )
+ ( /4CACAADE R3 R12 10k
+  ( 1 N-000058 )
+  ( 2 /SOLPWR- )
+ )
+ ( /4CACAAD3 R3 R13 10k
+  ( 1 N-000170 )
+  ( 2 /SOLPWR- )
+ )
+ ( /4CACAA68 R3 R14 10k
+  ( 1 N-000043 )
+  ( 2 /SOLPWR- )
+ )
+ ( /4CACAA5D R3 R15 10k
+  ( 1 N-000175 )
+  ( 2 /SOLPWR- )
+ )
+ ( /4CACAA01 R3 R16 10k
+  ( 1 N-000168 )
+  ( 2 /SOLPWR- )
+ )
+ ( /4CACAA29 R3 R17 10k
+  ( 1 N-000141 )
+  ( 2 /SOLPWR- )
+ )
+ ( /4CACAAAC R3 R18 1k
+  ( 1 N-000026 )
+  ( 2 N-000025 )
+ )
+ ( /4CACAABD R3 R19 1k
+  ( 1 N-000022 )
+  ( 2 N-000079 )
+ )
+ ( /4CACAAE1 R3 R20 1k
+  ( 1 N-000060 )
+  ( 2 N-000059 )
+ )
+ ( /4CACAAD0 R3 R21 1k
+  ( 1 N-000081 )
+  ( 2 N-000092 )
+ )
+ ( /4CACAA6B R3 R22 1k
+  ( 1 N-000042 )
+  ( 2 N-000009 )
+ )
+ ( /4CACAA5A R3 R23 1k
+  ( 1 N-000045 )
+  ( 2 N-000044 )
+ )
+ ( /4CACA9FE R3 R24 1k
+  ( 1 N-000167 )
+  ( 2 N-000136 )
+ )
+ ( /4CACAA2C R3 R25 1k
+  ( 1 N-000140 )
+  ( 2 N-000142 )
+ )
+ ( /4CACAAA4 R3 R26 1k
+  ( 1 N-000005 )
+  ( 2 GND )
+ )
+ ( /4CACAAC5 R3 R27 1k
+  ( 1 N-000072 )
+  ( 2 GND )
+ )
+ ( /4CACAAE9 R3 R28 1k
+  ( 1 N-000053 )
+  ( 2 GND )
+ )
+ ( /4CACAAC8 R3 R29 1k
+  ( 1 N-000076 )
+  ( 2 GND )
+ )
+ ( /4CACAA73 R3 R30 1k
+  ( 1 N-000013 )
+  ( 2 GND )
+ )
+ ( /4CACAA52 R3 R31 1k
+  ( 1 N-000028 )
+  ( 2 GND )
+ )
+ ( /4CAC9AC5 R3 R32 1k
+  ( 1 N-000159 )
+  ( 2 GND )
+ )
+ ( /4CACAA34 R3 R33 1k
+  ( 1 N-000036 )
+  ( 2 GND )
+ )
+ ( /4CACCF4F R3 R34 2.2k
+  ( 1 N-000063 )
+  ( 2 /SOLPWR- )
+ )
+ ( /4CACAAA8 R3 R35 10k
+  ( 1 N-000023 )
+  ( 2 /SOLPWR- )
+ )
+ ( /4CACAAC1 R3 R36 10k
+  ( 1 N-000172 )
+  ( 2 /SOLPWR- )
+ )
+ ( /4CACAAE5 R3 R37 10k
+  ( 1 N-000173 )
+  ( 2 /SOLPWR- )
+ )
+ ( /4CACAACC R3 R38 10k
+  ( 1 N-000090 )
+  ( 2 /SOLPWR- )
+ )
+ ( /4CACAA6F R3 R39 10k
+  ( 1 N-000179 )
+  ( 2 /SOLPWR- )
+ )
+ ( /4CACAA56 R3 R40 10k
+  ( 1 N-000031 )
+  ( 2 /SOLPWR- )
+ )
+ ( /4CAC9AC9 R3 R41 10k
+  ( 1 N-000161 )
+  ( 2 /SOLPWR- )
+ )
+ ( /4CACAA30 R3 R42 10k
+  ( 1 N-000166 )
+  ( 2 /SOLPWR- )
+ )
+ ( /4CACAAAB R3 R43 1k
+  ( 1 N-000007 )
+  ( 2 N-000024 )
+ )
+ ( /4CACAABE R3 R44 1k
+  ( 1 N-000171 )
+  ( 2 N-000080 )
+ )
+ ( /4CACAAE2 R3 R45 1k
+  ( 1 N-000050 )
+  ( 2 N-000061 )
+ )
+ ( /4CACAACF R3 R46 1k
+  ( 1 N-000089 )
+  ( 2 N-000091 )
+ )
+ ( /4CACAA6C R3 R47 1k
+  ( 1 N-000178 )
+  ( 2 N-000010 )
+ )
+ ( /4CACAA59 R3 R48 1k
+  ( 1 N-000033 )
+  ( 2 N-000032 )
+ )
+ ( /4CACA74E R3 R49 1k
+  ( 1 N-000160 )
+  ( 2 N-000135 )
+ )
+ ( /4CACAA2D R3 R50 1k
+  ( 1 N-000165 )
+  ( 2 N-000143 )
+ )
+ ( /4BFC52D1 R3 R51 10k
+  ( 1 VCC )
+  ( 2 /RESET )
+ )
+ ( /4C00894C R3 R52 1k
+  ( 1 N-000112 )
+  ( 2 N-000153 )
+ )
+ ( /4C00894F R3 R53 1k
+  ( 1 N-000169 )
+  ( 2 N-000154 )
+ )
+ ( /4BFC4FBC R3 R54 1k
+  ( 1 VCC )
+  ( 2 N-000134 )
+ )
+ ( /4BFC8109 R3 R55 1k
+  ( 1 N-000093 )
+  ( 2 GND )
+ )
+ ( /4C019E50 R3 R56 1k
+  ( 1 N-000149 )
+  ( 2 GND )
+ )
+ ( /4BFC8038 SW1 SW1 RESET
+  ( 1 GND )
+  ( 2 /RESET )
+ )
+ ( /4CACAAB4 DIP-6__300 U1 4N35
+  ( 1 /SOL1 )
+  ( 2 N-000016 )
+  ( 3 ? )
+  ( 4 N-000177 )
+  ( 5 /SOLPWR+ )
+  ( 6 ? )
+ )
+ ( /4CACAAB5 DIP-6__300 U2 4N35
+  ( 1 /SOL2 )
+  ( 2 N-000020 )
+  ( 3 ? )
+  ( 4 N-000078 )
+  ( 5 /SOLPWR+ )
+  ( 6 ? )
+ )
+ ( /4CACAAD9 DIP-6__300 U3 4N35
+  ( 1 /SOL3 )
+  ( 2 N-000087 )
+  ( 3 ? )
+  ( 4 N-000058 )
+  ( 5 /SOLPWR+ )
+  ( 6 ? )
+ )
+ ( /4CACAAD8 DIP-6__300 U4 4N35
+  ( 1 /SOL4 )
+  ( 2 N-000084 )
+  ( 3 ? )
+  ( 4 N-000170 )
+  ( 5 /SOLPWR+ )
+  ( 6 ? )
+ )
+ ( /4CACAA63 DIP-6__300 U5 4N35
+  ( 1 /SOL5 )
+  ( 2 N-000040 )
+  ( 3 ? )
+  ( 4 N-000043 )
+  ( 5 /SOLPWR+ )
+  ( 6 ? )
+ )
+ ( /4CACAA62 DIP-6__300 U6 4N35
+  ( 1 /SOL6 )
+  ( 2 N-000048 )
+  ( 3 ? )
+  ( 4 N-000175 )
+  ( 5 /SOLPWR+ )
+  ( 6 ? )
+ )
+ ( /4CACAA06 DIP-6__300 U7 4N35
+  ( 1 /SOL7 )
+  ( 2 N-000146 )
+  ( 3 ? )
+  ( 4 N-000168 )
+  ( 5 /SOLPWR+ )
+  ( 6 ? )
+ )
+ ( /4CACAA24 DIP-6__300 U8 4N35
+  ( 1 /SOL8 )
+  ( 2 N-000148 )
+  ( 3 ? )
+  ( 4 N-000141 )
+  ( 5 /SOLPWR+ )
+  ( 6 ? )
+ )
+ ( /4CACAAA3 DIP-6__300 U9 4N35
+  ( 1 /SOL9 )
+  ( 2 N-000005 )
+  ( 3 ? )
+  ( 4 N-000023 )
+  ( 5 /SOLPWR+ )
+  ( 6 ? )
+ )
+ ( /4CACAAC6 DIP-6__300 U10 4N35
+  ( 1 /SOL10 )
+  ( 2 N-000072 )
+  ( 3 ? )
+  ( 4 N-000172 )
+  ( 5 /SOLPWR+ )
+  ( 6 ? )
+ )
+ ( /4CACAAEA DIP-6__300 U11 4N35
+  ( 1 /SOL11 )
+  ( 2 N-000053 )
+  ( 3 ? )
+  ( 4 N-000173 )
+  ( 5 /SOLPWR+ )
+  ( 6 ? )
+ )
+ ( /4CACAAC7 DIP-6__300 U12 4N35
+  ( 1 /SOL12 )
+  ( 2 N-000076 )
+  ( 3 ? )
+  ( 4 N-000090 )
+  ( 5 /SOLPWR+ )
+  ( 6 ? )
+ )
+ ( /4CACAA74 DIP-6__300 U13 4N35
+  ( 1 /SOL13 )
+  ( 2 N-000013 )
+  ( 3 ? )
+  ( 4 N-000179 )
+  ( 5 /SOLPWR+ )
+  ( 6 ? )
+ )
+ ( /4CACAA51 DIP-6__300 U14 4N35
+  ( 1 /SOL14 )
+  ( 2 N-000028 )
+  ( 3 ? )
+  ( 4 N-000031 )
+  ( 5 /SOLPWR+ )
+  ( 6 ? )
+ )
+ ( /4CAC9AC4 DIP-6__300 U15 4N35
+  ( 1 /SOL15 )
+  ( 2 N-000159 )
+  ( 3 ? )
+  ( 4 N-000161 )
+  ( 5 /SOLPWR+ )
+  ( 6 ? )
+ )
+ ( /4CACAA35 DIP-6__300 U16 4N35
+  ( 1 /SOL16 )
+  ( 2 N-000036 )
+  ( 3 ? )
+  ( 4 N-000166 )
+  ( 5 /SOLPWR+ )
+  ( 6 ? )
+ )
+ ( /4CACAE64 DIP-6__300 U17 4N35
+  ( 1 /SOLPWR+ )
+  ( 2 N-000063 )
+  ( 3 ? )
+  ( 4 GND )
+  ( 5 /ARMED )
+  ( 6 ? )
+ )
+ ( /4CAC9C9D DIP-16__300 U18 74HC595
+  ( 1 /SOL2 )
+  ( 2 /SOL3 )
+  ( 3 /SOL4 )
+  ( 4 /SOL5 )
+  ( 5 /SOL6 )
+  ( 6 /SOL7 )
+  ( 7 /SOL8 )
+  ( 8 GND )
+  ( 9 N-000163 )
+  ( 10 /CLEAR )
+  ( 11 /SCK )
+  ( 12 /LATCH )
+  ( 13 /OE )
+  ( 14 /MOSI )
+  ( 15 /SOL1 )
+  ( 16 VCC )
+ )
+ ( /4CAC9FDD DIP-16__300 U19 74HC595
+  ( 1 /SOL10 )
+  ( 2 /SOL11 )
+  ( 3 /SOL12 )
+  ( 4 /SOL13 )
+  ( 5 /SOL14 )
+  ( 6 /SOL15 )
+  ( 7 /SOL16 )
+  ( 8 GND )
+  ( 9 /SOUT )
+  ( 10 /CLEAR )
+  ( 11 /SCK )
+  ( 12 /LATCH )
+  ( 13 /OE )
+  ( 14 N-000163 )
+  ( 15 /SOL9 )
+  ( 16 VCC )
+ )
+ ( /4C0080A6 SIL-3 U20 MCP1700
+  ( 1 GND )
+  ( 2 VCC )
+  ( 3 +3.3V )
+ )
+ ( /4C007D3D DIP-14__300 U21 74AHC125
+  ( 1 /RESET )
+  ( 2 /RESET )
+  ( 3 N-000108 )
+  ( 4 ? )
+  ( 5 ? )
+  ( 6 ? )
+  ( 7 GND )
+  ( 8 ? )
+  ( 9 ? )
+  ( 10 ? )
+  ( 11 N-000116 )
+  ( 12 /TXD )
+  ( 13 GND )
+  ( 14 +3.3V )
+ )
+ ( /4BFDA5FA TO220_VERT U22 LM7805
+  ( 1 N-000119 )
+  ( 2 VCC )
+  ( 3 GND )
+ )
+ ( /4CA3987C SIL-3 Y1 RESONATOR
+  ( 1 N-000151 )
+  ( 2 GND )
+  ( 3 N-000150 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component C2
+ SM*
+ C?
+ C1-1
+$endlist
+$component C3
+ SM*
+ C?
+ C1-1
+$endlist
+$component C4
+ CP*
+ SM*
+$endlist
+$component C5
+ SM*
+ C?
+ C1-1
+$endlist
+$component C6
+ SM*
+ C?
+ C1-1
+$endlist
+$component C7
+ SM*
+ C?
+ C1-1
+$endlist
+$component C8
+ CP*
+ SM*
+$endlist
+$component C9
+ SM*
+ C?
+ C1-1
+$endlist
+$component C10
+ CP*
+ SM*
+$endlist
+$component C11
+ SM*
+ C?
+ C1-1
+$endlist
+$component C12
+ SM*
+ C?
+ C1-1
+$endlist
+$component C13
+ SM*
+ C?
+ C1-1
+$endlist
+$component D1
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D2
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D3
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D4
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D5
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D6
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D7
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D8
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D9
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D10
+ D?
+ S*
+$endlist
+$component D11
+ D?
+ S*
+$endlist
+$component D12
+ D?
+ S*
+$endlist
+$component D13
+ D?
+ S*
+$endlist
+$component D14
+ D?
+ S*
+$endlist
+$component D15
+ D?
+ S*
+$endlist
+$component D16
+ D?
+ S*
+$endlist
+$component D17
+ D?
+ S*
+$endlist
+$component D18
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D19
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D20
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D21
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D22
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D23
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D24
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D25
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D26
+ D?
+ S*
+$endlist
+$component D27
+ D?
+ S*
+$endlist
+$component D28
+ D?
+ S*
+$endlist
+$component D29
+ D?
+ S*
+$endlist
+$component D30
+ D?
+ S*
+$endlist
+$component D31
+ D?
+ S*
+$endlist
+$component D32
+ D?
+ S*
+$endlist
+$component D33
+ D?
+ S*
+$endlist
+$component D34
+ D?
+ S*
+$endlist
+$component D35
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D36
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D37
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D38
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D39
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component IC1
+ 28DIP-ELL600
+ 28dip600
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R6
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R7
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R8
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R9
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R10
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R11
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R12
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R13
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R14
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R15
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R16
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R17
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R18
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R19
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R20
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R21
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R22
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R23
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R24
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R25
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R26
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R27
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R28
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R29
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R30
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R31
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R32
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R33
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R34
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R35
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R36
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R37
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R38
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R39
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R40
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R41
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R42
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R43
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R44
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R45
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R46
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R47
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R48
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R49
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R50
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R51
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R52
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R53
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R54
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R55
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R56
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$endfootprintlist
+}

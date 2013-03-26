@@ -1,0 +1,7 @@
+*.lib
+*.mod
+*.bak
+*.ps
+*.bck
+*.000
+.DS_Store*
