@@ -17,7 +17,7 @@ After I wired up 16 MOSFET + optoisolator circuits on perfboard for Flux and Fir
 * Load power status is reported to the microcontroller via an optoisolated input pin
 * Output power channels are controlled with a TLC5940 constant current driver that works like a shift register
 * Each output channel has a status LED for easy debugging
-* TLC5940 control lines are broken out to input/output headres, so boards can be chained without additional control systems
+* TLC5940 control lines are broken out to input/output headers, so boards can be chained without additional control systems
 
 ### Design
 
