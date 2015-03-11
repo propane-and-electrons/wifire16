@@ -1,23 +1,23 @@
-update=1/5/2014 3:09:11 PM
+update=3/10/2015 9:04:54 PM
 version=1
-last_client=cvpcb
+last_client=kicad
 [general]
 version=1
+[cvpcb]
+version=1
+NetIExt=net
 [eeschema]
 version=1
 LibDir=
-NetFmtName=LegacyPcbnew
-RptD_X=0
-RptD_Y=100
-RptLab=1
-LabSize=60
 [eeschema/libraries]
 LibName1=shardy
 [pcbnew]
 version=1
+PageLayoutDescrFile=
 LastNetListRead=wifire16.net
-UseCmpFile=1
+UseCmpFile=0
 PadDrill=0.8128
+PadDrillOvalY=0.8128
 PadSizeH=1.6764
 PadSizeV=1.6764
 PcbTextSizeV=2.032
@@ -31,9 +31,3 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.381
 BoardOutlineThickness=0.381
 ModuleOutlineThickness=0.381
-[pcbnew/libraries]
-LibName1=shardy
-LibDir=
-[cvpcb]
-version=1
-NetIExt=net
