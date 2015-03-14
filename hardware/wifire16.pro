@@ -1,4 +1,4 @@
-update=3/10/2015 9:04:54 PM
+update=3/14/2015 12:59:56 PM
 version=1
 last_client=kicad
 [general]
@@ -6,11 +6,6 @@ version=1
 [cvpcb]
 version=1
 NetIExt=net
-[eeschema]
-version=1
-LibDir=
-[eeschema/libraries]
-LibName1=shardy
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -31,3 +26,8 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.381
 BoardOutlineThickness=0.381
 ModuleOutlineThickness=0.381
+[eeschema]
+version=1
+LibDir=
+[eeschema/libraries]
+LibName1=shardy
